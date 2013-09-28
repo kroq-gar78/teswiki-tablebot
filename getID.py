@@ -29,7 +29,11 @@ def getID(title):
 # in the event that there are linebreaks in the string; should probably be combined with "getID()"
 def parseList(ids):
 	import re
-	return re.split("<br[ /]*?>",ids)
+	total = re.split("<br[ /]*?>",ids)
+	for i in xrange(len(total)): # get the strings out of unicode (is this a good idea?)
+		total[i]=str(total[i])
+	total=filter(None,total) # remove empty elements
+	return total
 
 if __name__ == "__main__":
 	print parseList(getID("Bounty (Book)"))
