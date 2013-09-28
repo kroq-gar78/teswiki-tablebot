@@ -1,0 +1,711 @@
+==Notes, letters, and documents==
+{| border="1" cellpadding="1" cellspacing="1" style="width: 100%; text-align: left" class="wikitable"
+|-
+! scope="col"|Title
+! scope="col"|Overview
+! scope="col"|Item ID
+|-
+| style="width: 200px;"|[[A Scrawled Note (Skyrim)|A Scrawled Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[A Warning]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Aeri's Note]]
+|A note from [[Aeri]] of [[Anga's Mill]] to [[Jarl]] [[Skald]] describing how Skald is requesting lumber to be delivered to [[Dawnstar]] and workers to enlist in the [[Stormcloak]] rebellion, but Aeri denying him recruits.
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Afflicted's Note]]
+|A note describing how [[Orchendor]] believes some [[Dwemer]] constructs will help him commune with [[Peryite]].
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Alchemist's Note]]
+|A note describing how Head Alchemist Froda is a bit reluctant to [http://elderscrolls.wikia.com/wiki/Rahgot#Background use poisons on their own people.]
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Alethius's Notes]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[All Employees Must Read!]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Amaund Motierre's Sealed Letter]]
+|A note from [[Amaund Motierre]] to [[Astrid]] describing the steps on how to [http://elderscrolls.wikia.com/wiki/Bound_Until_Death crash a wedding.]
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[An Apology]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Ancient Edict]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Anders's Message]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Anise's Letter]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Anonymous Letter (Skyrim)|Anonymous Letter]], two variants
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Argonian Ceremony]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Attention Employees!]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Balmora Blue Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Beware the Butcher|Beware the Butcher!]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Blood Horker Orders]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Bloodstained note]]
+|A note from [[Sudi]] to [[Ramati]] describing some of the [http://elderscrolls.wikia.com/wiki/Frostflow_Abyss_%28Quest%29 events] that happened in [[Frostflow Lighthouse]].
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Bolar's Writ]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Bounty (Book)|Bounty]], five unique BaseID's
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Commander's Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Complaint Letter]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Contract]], two variants
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Corpse Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Courier's Letter]]
+|A letter from a [[Courier]] to an investor describing how a group of expeditioners were on their way to loot the [[chest]] at [[Autumnwatch Tower]] but were intercepted by a [[dragon]].
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Dark Brotherhood Assassin's Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Dragon Investigation: Current Status]]
+|A note from [[Rulindil]] to [[Elenwen]] describing the recent capture and interrogation of [[Etienne Rarnis]].
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Dryston's Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[East Empire Connection]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Eltrys' Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Eyes Open]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Faendal's Fake Letter from Sven]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Faleen's Letter to Calcelmo]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Faralda's Notes]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Father's Missive]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[First Letter from Linwe]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[For Shelly]]
+|Part of the broken quest, Trius and Shelly, this note describes how the ship that Shelly boarded was very late and that Trius awaits her return.
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Forsworn Missive]]
+|A note from the [[Forsworn]] to a man named Alaric describing how the Forsworn operate as opposed to the former's tactics.
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Forsworn Note]], two variants
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Fort Neugrad Treasure Map]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Frost's Identity Papers]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Gaius Maro's Schedule]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Geirmund's Epitaph]]
+|A poem from King [[Harald]] to [[Geirmund]] blessing the latter for battling [http://elderscrolls.wikia.com/wiki/Mikral_Gauldurson the] [http://elderscrolls.wikia.com/wiki/Jyrik_Gauldurson three] [http://elderscrolls.wikia.com/wiki/Sigdis_Gauldurson sons] of [[Gauldur]].
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Gissur's Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Give Me A Chance]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Goldenglow]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Goldenglow Bill of Sale]], two variants
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Gorm's Letter]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Gourmet's Writ of Passage]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Guard's Orders]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Gulum-Ei's Confession]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Habd's Death Letter]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Hastily Scribbled Note]]
+|A journal entry from [[Gaston Bellefort]] describing how he has found the [[Dark Brotherhood Sanctuary]] and has been observing the [[Dark Brotherhood]] and plans to infiltrate the Sanctuary.
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Have Need of Cynric]], two variants
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Hired Thug's Missive]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Idgrod's Note]]
+|A note from [[Idgrod the Younger]] to [[Danica Pure-Spring]] describing [[Joric]]'s condition.
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Imperial Condolences]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Imperial Letter]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Imperial Missive (Battle-Born)]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Imperial Missive (Fort Neugrad)]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Imperial Order]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Incriminating Letter]], three variants
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Invitation to Elenwen's Reception]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Isabelle's Letter]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[J'datharr's Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Justiciar Execution Order]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Kyr's Bounty]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from A Friend]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from Calcemo]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from Christophe]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from Falk Firebeard]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from Father]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from Jon]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from Jervar]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from Leifur]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from Maven]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from Olfina]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from Quintus Navale]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from Sabjorn]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from Septimus Signus]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from Solitude]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from The Steward]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter of Credit]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter of Inheritance]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter to Beem-Ja]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter to Golldir]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter to Salma]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter to Vals Veran]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Lorcalin's Orders]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Madanach's Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Mani's Letter]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Many Thanks]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Mara Smiles Upon You!]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Museum Pamphlet]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Mysterious Note]], two variants
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Mzinchaleft Guard's Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Mzinchaleft Work Order]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Necromancer's Letter]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[No Word Yet]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Note (Black Hand)]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Note (Forelhost 1)]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Note (Forelhost 2)]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Note (Greenwall)]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Note (Mistwatch)]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Note (Stormcloak)]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Note (Treasure)]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Note from Agna]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Note from Jaree-Ra]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Note from Maven]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Note to Rhorlak]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Note to Rodulf]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Note to Thomas]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Note to the Authorities]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Notice]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Notice of Cost Increase]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Official warning]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Orders]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Per Your Requests]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Possible Rivals]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Prisoner's Plan]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Private Letter]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Promissory Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Purchase Agreement (Bolli)]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Purchase Agreement (Sarthis Idren)]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Quite Pleased]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Ra'jirr's Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Rahgot's Reply]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Regarding Your Loss]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Repair Supplies]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Reports of a Disturbance]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Request for Help!]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Requested Report]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Rigel's Letter]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Rogatus's Letter (Item)|Rogatus's Letter]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Roras's Letter]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Scrawled page]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Scribbled Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Second Letter from Linwe]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Sergius's Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Shavari's Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Shipment's Arrived]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Shipment's Ready]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Shopping List (Skyrim)|Shopping List]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Sibbi Black-Briar (Book)|Sibbi Black-Briar]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Small Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Smuggler's Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Soldier's Request]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Sondas's Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Stormcloak Missive]], two variants
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Sven's Fake Letter from Faendal]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Tattered Note (Skyrim)|Tattered Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Thalmor Orders]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[The Warmth of Mara]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Thief's Last Words]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Things to Do]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Timely Offer]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Torn Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[To A Concerned Citizen]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[To Be Read Immedately!]] (as spelled in game)
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[To The Brotherhood]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[To The Owner]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Tova's Farewell]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Training Chests]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Treasure Hunter's Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Until Next Time]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Urag's Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Vald's Debt]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Valmir's Orders]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Velehk Sain's Treasure Map]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Warning]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Watchtower Guard's Letter]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Weylin's Note]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Writ of Sealing]], three variants
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Ysolda's Message]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|}
