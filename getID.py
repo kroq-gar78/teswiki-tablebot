@@ -32,7 +32,7 @@ def parseList(ids):
 	import re
 	total = re.split("<br[ /]*?>",ids)
 	for i in xrange(len(total)): # get the strings out of unicode (is this a good idea?)
-		total[i]=str(total[i])
+		total[i]=str(total[i]).strip()
 	total=filter(None,total) # remove empty elements
 	return total
 
