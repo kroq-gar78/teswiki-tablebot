@@ -165,10 +165,6 @@
 |
 | style="width: 55px;"|{{missing|Skyrim}}
 |-
-| style="width: 200px;"|[[Fort Neugrad Treasure Map]]
-|
-| style="width: 55px;"|{{missing|Skyrim}}
-|-
 | style="width: 200px;"|[[Frost's Identity Papers]]
 |
 | style="width: 55px;"|{{missing|Skyrim}}
