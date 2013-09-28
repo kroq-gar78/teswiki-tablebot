@@ -13,10 +13,10 @@ def parsePage(title):
 	text = res["query"]["pages"].values()[0]["revisions"][0]["*"]
 	return mwph.parse(text)
 
-if __name__ == "__main__":
+def getID(title):
 	#text = "{{SkyrimBooks |id = 000F6928}}"
 	#f = open('test2_aeri','r')
-	wikicode = parsePage("Bounty (Book)")
+	wikicode = parsePage(title)
 	#wikicode = mwph.parse(f.read())
 	#print wikicode
 	templates = wikicode.filter_templates()
@@ -24,4 +24,12 @@ if __name__ == "__main__":
 	#print templates[0].get("id").value.strip()
 	for i in templates:
 		if i.name.strip() == "SkyrimBooks":
-			print "ID:",i.get("id").value.strip()
+			return i.get("id").value.strip()
+
+# in the event that there are linebreaks in the string; should probably be combined with "getID()"
+def parseList(ids):
+	import re
+	return re.split("<br[ /]*?>",ids)
+
+if __name__ == "__main__":
+	print parseList(getID("Bounty (Book)"))
