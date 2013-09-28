@@ -25,6 +25,7 @@ def getID(title):
 	for i in templates:
 		if i.name.strip() == "SkyrimBooks":
 			return i.get("id").value.strip()
+	return "None"
 
 # in the event that there are linebreaks in the string; should probably be combined with "getID()"
 def parseList(ids):
@@ -36,4 +37,13 @@ def parseList(ids):
 	return total
 
 if __name__ == "__main__":
-	print parseList(getID("Bounty (Book)"))
+	#print parseList(getID("Bounty (Book)"))
+	import io,sys
+	infile = open(sys.argv[1],'r')
+	idhash={}
+	for i in infile.readlines():
+		ID=getID(i.strip().rstrip('\n'))
+		if ID:
+			idhash[i]=parseList(ID)
+			print i,parseList(ID)
+	
