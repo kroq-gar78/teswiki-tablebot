@@ -165,6 +165,10 @@
 |
 | style="width: 55px;"|{{missing|Skyrim}}
 |-
+| style="width: 200px;"|[[Fort Neugrad Treasure Map]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
 | style="width: 200px;"|[[Frost's Identity Papers]]
 |
 | style="width: 55px;"|{{missing|Skyrim}}
@@ -273,11 +277,23 @@
 |
 | style="width: 55px;"|{{missing|Skyrim}}
 |-
-| style="width: 200px;"|[[Letter]]
+| style="width: 200px;"|[[Letter (Skyrim)|Letter]]
 |
 | style="width: 55px;"|{{missing|Skyrim}}
 |-
-| style="width: 200px;"|[[Letter from A Friend]]
+| style="width: 200px;"|[[Letter from -NPC- (Request)]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from -NPC- (Reward)]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from -NPC- (Thanks)]]
+|
+| style="width: 55px;"|{{missing|Skyrim}}
+|-
+| style="width: 200px;"|[[Letter from a Friend]]
 |
 | style="width: 55px;"|{{missing|Skyrim}}
 |-
@@ -298,14 +314,6 @@
 | style="width: 55px;"|{{missing|Skyrim}}
 |-
 | style="width: 200px;"|[[Letter from Jon]]
-|
-| style="width: 55px;"|{{missing|Skyrim}}
-|-
-| style="width: 200px;"|[[Letter from Jervar]]
-|
-| style="width: 55px;"|{{missing|Skyrim}}
-|-
-| style="width: 200px;"|[[Letter from Leifur]]
 |
 | style="width: 55px;"|{{missing|Skyrim}}
 |-
@@ -469,7 +477,7 @@
 |
 | style="width: 55px;"|{{missing|Skyrim}}
 |-
-| style="width: 200px;"|[[Official warning]]
+| style="width: 200px;"|[[Official Warning]]
 |
 | style="width: 55px;"|{{missing|Skyrim}}
 |-
@@ -589,7 +597,7 @@
 |
 | style="width: 55px;"|{{missing|Skyrim}}
 |-
-| style="width: 200px;"|[[Smuggler's Note]]
+| style="width: 200px;"|[[Smugglers' Note]]
 |
 | style="width: 55px;"|{{missing|Skyrim}}
 |-
